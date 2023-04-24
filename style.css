@@ -1,0 +1,61 @@
+
+/* Não consegui ajustar a margem dos elementos dos cantos :/ */
+.bordas {
+display: inline-block;
+
+border: 2px solid black;
+width: 200px;
+height: 200px;
+background-color: red
+
+
+}
+
+.red_meio {
+    display: inline-block;
+    width: 200px;    
+    height: 200px;
+    background-color: red;
+    border: 1px solid white;
+    margin-left: -4px
+
+    
+    }
+
+.blue_meio {
+    display: inline-block;
+    width: 200px;    
+    height: 200px;
+    background-color: rgb(0, 153, 255);
+    border: 1px solid white;
+    margin-left: -4px
+
+    
+    }
+
+.green_meio {
+    display: inline-block;
+    width: 200px;    
+    height: 200px;
+    background-color: rgb(17, 133, 36);
+    border: 1px solid white;
+    margin-left: -4px
+
+    
+    }
+
+.yellow_meio {
+    display: inline-block;
+    width: 200px;    
+    height: 200px;
+    background-color: yellow;
+    border: 1px solid white;
+    margin-left: -4px
+
+    
+    }
+
+
+
+
+
